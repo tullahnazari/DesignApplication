@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
         //Circular object
         //rounded.isCircular = true
         logo.setImageDrawable(rounded)
+        println("hello")
     }
 }
